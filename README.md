@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=200&section=header&text=Sócrates%20Max&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Editor%20de%20V%C3%ADdeo%20%7C%20Programador%20Iniciante&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://tenor.com/pt-BR/view/i-am-atomic-shadow-garden-shadow-cid-kagenou-the-eminence-in-shadow-gif-12937431902276425644" width="100%"/>
 
-<img src="(https://tenor.com/pt-BR/view/i-am-atomic-shadow-garden-shadow-cid-kagenou-the-eminence-in-shadow-gif-12937431902276425644)" width="220"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=200&section=header&text=Sócrates%20Max&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Editor%20de%20V%C3%ADdeo%20%7C%20Programador%20Iniciante&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Editor+de+v%C3%ADdeo+(Premiere+%2B+After+Effects);Aprendendo+HTML%2C+CSS%2C+JS+e+Python;Construindo+a+Avenelles+(e-commerce)" />
